@@ -23,3 +23,13 @@ button {
   margin: 0 auto;
   padding: 8px 24px;
 }
+
+/* rule 1 */
+.subsection {
+  color: blue;
+}
+
+/* rule 2 */
+.test1 .list {
+  color: red;
+}
